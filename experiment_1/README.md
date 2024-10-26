@@ -48,6 +48,6 @@ void loop() {
 
 <br>
 
-<div align="center" width="600" height="300">
-<img src="/media/schematic_6.jpg">
+<div align="center">
+<img src="/media/schematic_6.jpg" width="600px" height="300px">
 </div>
