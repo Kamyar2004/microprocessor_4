@@ -42,5 +42,5 @@ void loop() {
 <br>
 
 <div align="center">
-<img src="/media/schematic_9.jpg" width="600px" height="300px">
+<img src="/media/schematic_9.jpg" width="600px" height="400px">
 </div>
